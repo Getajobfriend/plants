@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aquascape Ideas — Freshwater Plants USA</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="aquascape.css">
+</head>
+<body>
+
+  <header>
+    <div class="header-badge">🪨 Aquascape Ideas</div>
+    <h1>Design Your Tank</h1>
+    <p>Pick a style, choose your tank size, select your plants — get a custom layout</p>
+    <a href="index.html" class="back-link">← Back to Plant Prices</a>
+  </header>
+
+  <!-- STEP 1: Style -->
+  <section class="step" id="step-style">
+    <div class="step-label"><span>1</span> Choose a Style</div>
+    <div class="style-grid" id="style-grid"></div>
+  </section>
+
+  <!-- STEP 2: Tank Size -->
+  <section class="step" id="step-tank">
+    <div class="step-label"><span>2</span> Choose Your Tank Size</div>
+    <div class="tank-grid">
+      <button class="tank-btn" data-gallons="10" data-w="20" data-h="12" data-d="10">
+        <div class="tank-name">10 Gallon</div>
+        <div class="tank-dims">20" × 12" × 10"</div>
+        <div class="tank-note">Nano · Great for Iwagumi</div>
+      </button>
+      <button class="tank-btn" data-gallons="20" data-w="30" data-h="12" data-d="12">
+        <div class="tank-name">20 Gallon Long</div>
+        <div class="tank-dims">30" × 12" × 12"</div>
+        <div class="tank-note">Starter · Most styles work</div>
+      </button>
+      <button class="tank-btn" data-gallons="55" data-w="48" data-h="20" data-d="13">
+        <div class="tank-name">55 Gallon</div>
+        <div class="tank-dims">48" × 20" × 13"</div>
+        <div class="tank-note">Mid-size · Great for Dutch</div>
+      </button>
+      <button class="tank-btn" data-gallons="75" data-w="48" data-h="20" data-d="18">
+        <div class="tank-name">75 Gallon</div>
+        <div class="tank-dims">48" × 20" × 18"</div>
+        <div class="tank-note">Large · Jungle paradise</div>
+      </button>
+      <button class="tank-btn custom-tank" data-gallons="custom">
+        <div class="tank-name">Custom</div>
+        <div class="custom-inputs">
+          <input type="number" id="custom-w" placeholder='W"' min="1">
+          <span>×</span>
+          <input type="number" id="custom-h" placeholder='H"' min="1">
+          <span>×</span>
+          <input type="number" id="custom-d" placeholder='D"' min="1">
+        </div>
+      </button>
+    </div>
+  </section>
+
+  <!-- STEP 3: Plants -->
+  <section class="step" id="step-plants">
+    <div class="step-label"><span>3</span> Pick Your Plants</div>
+    <p class="step-hint">Select from the list below, or type any plant name to add it.</p>
+
+    <div class="plant-search-wrap">
+      <input type="text" id="plant-search" placeholder="Type any plant name, e.g. &quot;Cryptocoryne Wendtii&quot;…" autocomplete="off">
+      <div class="plant-search-dropdown" id="plant-search-dropdown"></div>
+    </div>
+
+    <div class="selected-plants-wrap" id="selected-plants-wrap" style="display:none">
+      <div class="selected-label">Selected plants</div>
+      <div class="selected-chips" id="selected-chips"></div>
+    </div>
+
+    <div class="picker-label">Or pick from our list</div>
+    <div class="plant-picker" id="plant-picker"></div>
+  </section>
+
+  <!-- GENERATE BUTTON -->
+  <div class="generate-wrap">
+    <button class="generate-btn" id="generate-btn">Generate My Layout →</button>
+    <p class="generate-hint" id="generate-hint"></p>
+  </div>
+
+  <!-- RESULT -->
+  <section class="result-section" id="result-section" style="display:none">
+    <div class="result-inner">
+
+      <div class="result-header">
+        <h2 id="result-title">Your Aquascape Layout</h2>
+        <p id="result-subtitle"></p>
+      </div>
+
+      <!-- Style photo -->
+      <div class="inspiration-row">
+        <div class="inspiration-label">Style Inspiration</div>
+        <div class="inspiration-photos" id="inspiration-photos"></div>
+      </div>
+
+      <!-- Canvas diagram -->
+      <div class="diagram-wrap">
+        <div class="diagram-label">Your Layout — Front View</div>
+        <canvas id="layout-canvas"></canvas>
+        <div class="diagram-legend" id="diagram-legend"></div>
+      </div>
+
+      <!-- Plant list -->
+      <div class="placement-guide" id="placement-guide"></div>
+
+      <!-- Lighting & Care -->
+      <div class="care-section">
+        <div class="care-header">
+          <div class="inspiration-label">Lighting &amp; Care Guide</div>
+        </div>
+        <div class="care-grid" id="care-grid"></div>
+        <div class="lighting-rec" id="lighting-rec"></div>
+      </div>
+
+      <!-- Rules applied -->
+      <div class="rules-box" id="rules-box"></div>
+
+    </div>
+  </section>
+
+  <footer>
+    <p><a href="index.html">← Back to Plant Prices</a> · Freshwater Plants USA</p>
+  </footer>
+
+  <script src="aquascape.js"></script>
+</body>
+</html>

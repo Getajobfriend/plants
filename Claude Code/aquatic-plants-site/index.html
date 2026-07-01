@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Freshwater Plants</title>
+  <link rel="stylesheet" href="styles.css?v=5">
+</head>
+<body>
+
+  <header>
+    <div class="header-badge">🌿 Live Price Tracker</div>
+    <h1>Freshwater Plants</h1>
+    <p id="header-tagline">Compare prices across the top US aquatic plant sellers — updated weekly</p>
+
+    <div class="country-toggle">
+      <label class="country-option">
+        <input type="radio" name="country" value="US" checked>
+        <span>🇺🇸 US</span>
+      </label>
+      <label class="country-option">
+        <input type="radio" name="country" value="UK">
+        <span>🇬🇧 UK</span>
+      </label>
+    </div>
+
+    <a href="aquascape.html" class="nav-link">🪨 Aquascape Ideas →</a>
+    <p class="updated">Prices last updated: <span id="last-updated"></span></p>
+  </header>
+
+  <!-- Quiz -->
+  <div class="quiz-bar">
+    <div class="quiz-inner">
+      <span class="quiz-label">Find plants that work for you:</span>
+      <div class="quiz-fields">
+        <div class="quiz-group">
+          <label>Tank size</label>
+          <select id="q-tank">
+            <option value="">Any size</option>
+          </select>
+        </div>
+        <div class="quiz-group">
+          <label>Lighting</label>
+          <select id="q-light">
+            <option value="">Any lighting</option>
+            <option value="Low">Low (basic LED)</option>
+            <option value="Medium">Medium (planted LED)</option>
+            <option value="High">High (CO2 setup)</option>
+          </select>
+        </div>
+        <div class="quiz-group">
+          <label>Experience</label>
+          <select id="q-exp">
+            <option value="">Any level</option>
+            <option value="Easy">Beginner</option>
+            <option value="Medium">Some experience</option>
+            <option value="Hard">Advanced</option>
+          </select>
+        </div>
+        <button class="quiz-clear" id="quiz-clear">Clear</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="filters-row">
+    <div class="filters">
+      <button class="filter-btn active" data-filter="All">All Plants</button>
+      <button class="filter-btn" data-filter="Easy">🟢 Easy</button>
+      <button class="filter-btn" data-filter="Medium">🟡 Medium</button>
+      <button class="filter-btn" data-filter="Hard">🔴 Hard</button>
+    </div>
+    <div class="search-wrap">
+      <span class="search-icon">🔍</span>
+      <input type="text" id="plant-search" placeholder="Search plants…" autocomplete="off">
+    </div>
+  </div>
+
+  <!-- Best Deals Strip -->
+  <div class="deals-strip" id="deals-strip"></div>
+
+  <!-- Starter Bundles -->
+  <div class="bundles-section" id="bundles-section">
+    <div class="bundles-inner">
+      <h2 class="bundles-heading">Starter Bundles</h2>
+      <p class="bundles-sub">Not sure where to start? These combos work well together.</p>
+      <div class="bundles-grid" id="bundles-grid"></div>
+    </div>
+  </div>
+
+  <div class="results-count" id="results-count"></div>
+
+  <main id="plant-grid"></main>
+
+  <footer>
+    <p id="footer-text">Prices sourced live from <a href="https://buceplant.com" target="_blank" rel="noopener">Buce Plant</a>, <a href="https://shop.glassaqua.com" target="_blank" rel="noopener">Glass Aqua</a>, <a href="https://www.aquariumcoop.com" target="_blank" rel="noopener">Aquarium Co-Op</a>, <a href="https://aquariumplantsfactory.com" target="_blank" rel="noopener">Aquarium Plants Factory</a>, and <a href="https://www.modernaquarium.com" target="_blank" rel="noopener">Modern Aquarium</a>. Always verify before purchasing.</p>
+  </footer>
+
+  <script src="app.js?v=7"></script>
+</body>
+</html>

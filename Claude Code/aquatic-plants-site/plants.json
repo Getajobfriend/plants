@@ -1,0 +1,2034 @@
+[
+  {
+    "id": 1,
+    "name": "Amazon Sword",
+    "scientific": "Echinodorus bleheri",
+    "difficulty": "Easy",
+    "lighting": "Low",
+    "minTankGallons": 20,
+    "minTankLitres": 75,
+    "description": "One of the most iconic aquarium plants in the world. Big, bold leaves that make a dramatic centerpiece. Super forgiving \u2014 great for beginners.",
+    "image": "https://www.aquariumcoop.com/cdn/shop/files/amazon-sword-6264074.jpg?v=1766095155&width=800",
+    "sellers": [
+      {
+        "store": "Buce Plant",
+        "price": 7.99,
+        "prevPrice": 8.99,
+        "url": "https://buceplant.com/collections/aquarium-plants"
+      },
+      {
+        "store": "Aquarium Co-Op",
+        "price": 7.99,
+        "prevPrice": 7.99,
+        "url": "https://www.aquariumcoop.com/products/amazon-sword"
+      },
+      {
+        "store": "Modern Aquarium",
+        "price": 6.95,
+        "prevPrice": 5.95,
+        "url": "https://www.modernaquarium.com/"
+      },
+      {
+        "store": "Glass Aqua",
+        "price": 7.99,
+        "prevPrice": 7.99,
+        "url": "https://shop.glassaqua.com/products/echinodorus-bleheri"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 9.99,
+        "prevPrice": 9.99,
+        "url": "https://aquariumplantsfactory.com/products/amazon-sword"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 4.49,
+        "url": "https://www.aquariumgardens.co.uk/echinodorus-bleheri-amazon-sword-407-p.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 7.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Java Fern 'Windelov'",
+    "scientific": "Microsorum pteropus 'Windelov'",
+    "difficulty": "Easy",
+    "lighting": "Low",
+    "minTankGallons": 5,
+    "minTankLitres": 20,
+    "description": "A lacy, forked variant of Java Fern that looks like it belongs in a fantasy film. Grows slowly, loves low light, and needs no special soil.",
+    "image": "https://buceplant.com/cdn/shop/products/java-fern-windelov-11743177244753_800x533.jpg?v=1628078470",
+    "sellers": [
+      {
+        "store": "Buce Plant",
+        "price": 6.79,
+        "prevPrice": 7.49,
+        "url": "https://buceplant.com/collections/aquarium-plants/products/java-fern-windelov"
+      },
+      {
+        "store": "Glass Aqua",
+        "price": 7.99,
+        "prevPrice": 7.99,
+        "url": "https://shop.glassaqua.com/products/microsorum-pteropus-windelov"
+      },
+      {
+        "store": "Aquarium Co-Op",
+        "price": 9.99,
+        "prevPrice": 9.99,
+        "url": "https://www.aquariumcoop.com/products/java-fern-windelov"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 4.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 8.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Java Moss",
+    "scientific": "Taxiphyllum barbieri",
+    "difficulty": "Easy",
+    "lighting": "Low",
+    "minTankGallons": 5,
+    "minTankLitres": 20,
+    "description": "Soft, fluffy, and nearly indestructible. Grows on rocks, driftwood, or anywhere else you put it. Fish and shrimp absolutely love hiding in it.",
+    "image": "https://shop.glassaqua.com/cdn/shop/products/Java-Moss.jpg?v=1755030002&width=800",
+    "sellers": [
+      {
+        "store": "Glass Aqua",
+        "price": 12.99,
+        "prevPrice": 12.99,
+        "url": "https://shop.glassaqua.com/collections/top-sellers"
+      },
+      {
+        "store": "Modern Aquarium",
+        "price": 9.95,
+        "prevPrice": 10.95,
+        "url": "https://www.modernaquarium.com/"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 8.99,
+        "prevPrice": 8.99,
+        "url": "https://aquariumplantsfactory.com/products/java-moss"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 3.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 7.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Christmas Moss",
+    "scientific": "Vesicularia montagnei",
+    "difficulty": "Easy",
+    "lighting": "Low",
+    "minTankGallons": 5,
+    "minTankLitres": 20,
+    "description": "Branches fan out like a tiny Christmas tree. Gorgeous tied to driftwood, and perfect shelter for baby fish and shrimp.",
+    "image": "https://shop.glassaqua.com/cdn/shop/files/Christmas-Moss-1.jpg?v=1753480037&width=800",
+    "sellers": [
+      {
+        "store": "Glass Aqua",
+        "price": 7.99,
+        "prevPrice": 9.99,
+        "url": "https://shop.glassaqua.com/products/christmas-moss"
+      },
+      {
+        "store": "Buce Plant",
+        "price": 7.99,
+        "prevPrice": 13.99,
+        "url": "https://buceplant.com/products/christmas-moss"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 7.99,
+        "prevPrice": 7.99,
+        "url": "https://aquariumplantsfactory.com/products/christmas-moss"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 4.49,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 7.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Anubias Nana Petite",
+    "scientific": "Anubias barteri var. nana 'Petite'",
+    "difficulty": "Easy",
+    "lighting": "Low",
+    "minTankGallons": 5,
+    "minTankLitres": 20,
+    "description": "Tiny, dark, and almost impossible to kill. Attach it to a rock or piece of driftwood and forget about it \u2014 it'll thrive.",
+    "image": "https://shop.glassaqua.com/cdn/shop/products/Anubias-Nana-Petite_ab7f6e44-6c24-44d4-bc03-b1e25fbcc133.jpg?v=1749008994&width=800",
+    "sellers": [
+      {
+        "store": "Glass Aqua",
+        "price": 12.99,
+        "prevPrice": 14.99,
+        "url": "https://shop.glassaqua.com/collections/top-sellers"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 12.99,
+        "prevPrice": 12.99,
+        "url": "https://aquariumplantsfactory.com/"
+      },
+      {
+        "store": "Buce Plant",
+        "price": 13.99,
+        "prevPrice": 13.99,
+        "url": "https://buceplant.com/products/anubias-nana-petite"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 4.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 8.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Anubias Nana on Driftwood",
+    "scientific": "Anubias barteri var. nana",
+    "difficulty": "Easy",
+    "lighting": "Low",
+    "minTankGallons": 10,
+    "minTankLitres": 40,
+    "description": "Pre-attached to driftwood and ready to drop straight into your tank. Zero setup, instant results.",
+    "image": "https://shop.glassaqua.com/cdn/shop/files/Anubias-Nana-and-Christmas-Moss-On-Driftwood-Aquatic-Plant-Decor-1.jpg?v=1763592575&width=800",
+    "sellers": [
+      {
+        "store": "Buce Plant",
+        "price": 15.99,
+        "prevPrice": 15.99,
+        "url": "https://buceplant.com/products/anubias-nana-on-driftwood-1"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 12.99,
+        "prevPrice": 14.99,
+        "url": "https://aquariumplantsfactory.com/"
+      },
+      {
+        "store": "Glass Aqua",
+        "price": 15.99,
+        "prevPrice": 15.99,
+        "url": "https://shop.glassaqua.com/products/anubias-nana-driftwood"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 12.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 14.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Monte Carlo",
+    "scientific": "Micranthemum 'Monte Carlo'",
+    "difficulty": "Medium",
+    "lighting": "Medium",
+    "minTankGallons": 10,
+    "minTankLitres": 40,
+    "description": "Creates a lush green carpet along the bottom of your tank. Small round leaves, big visual impact. Needs moderate light to spread properly.",
+    "image": "https://shop.glassaqua.com/cdn/shop/products/Monte-Carlo-AF-Tissue-Culture-Aquatic-Plant.jpg?v=1737666475&width=800",
+    "sellers": [
+      {
+        "store": "Glass Aqua",
+        "price": 11.99,
+        "prevPrice": 11.99,
+        "url": "https://shop.glassaqua.com/products/micranthemum-monte-carlo"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 7.99,
+        "prevPrice": 10.99,
+        "url": "https://aquariumplantsfactory.com/products/micranthemum-monte-carlo"
+      },
+      {
+        "store": "Buce Plant",
+        "price": 12.99,
+        "prevPrice": 12.99,
+        "url": "https://buceplant.com/products/micranthemum-monte-carlo-tissue-culture-cup"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 4.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 7.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Ludwigia Natans Super Red",
+    "scientific": "Ludwigia natans",
+    "difficulty": "Medium",
+    "lighting": "Medium",
+    "minTankGallons": 10,
+    "minTankLitres": 40,
+    "description": "Green on top, deep red underneath. Fast-growing stem plant that adds a dramatic splash of color. Easy to trim and replant cuttings.",
+    "image": "https://shop.glassaqua.com/cdn/shop/files/Ludwigia-Natans-Super-Red-Aquatic-Stem-Plant-1.jpg?v=1750100929&width=800",
+    "sellers": [
+      {
+        "store": "Glass Aqua",
+        "price": 7.99,
+        "prevPrice": 7.99,
+        "url": "https://shop.glassaqua.com/products/ludwigia-super-red"
+      },
+      {
+        "store": "Modern Aquarium",
+        "price": 6.95,
+        "prevPrice": 7.95,
+        "url": "https://www.modernaquarium.com/"
+      },
+      {
+        "store": "Buce Plant",
+        "price": 7.99,
+        "prevPrice": 7.99,
+        "url": "https://buceplant.com/products/ludwigia-natans-super-red"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 4.49,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 7.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Sagittaria Subulata",
+    "scientific": "Sagittaria subulata",
+    "difficulty": "Easy",
+    "lighting": "Low",
+    "minTankGallons": 10,
+    "minTankLitres": 40,
+    "description": "A grass-like plant that spreads on its own by sending out runners. Creates a natural-looking meadow with zero effort.",
+    "image": "https://shop.glassaqua.com/cdn/shop/products/Ultum-Nature-Systems-Sagittaria-Subulata-Tissue-Culture.jpg?v=1613414674&width=800",
+    "sellers": [
+      {
+        "store": "Aquarium Co-Op",
+        "price": 7.99,
+        "prevPrice": 7.99,
+        "url": "https://www.aquariumcoop.com/products/dwarf-sagittaria"
+      },
+      {
+        "store": "Glass Aqua",
+        "price": 9.99,
+        "prevPrice": 10.99,
+        "url": "https://shop.glassaqua.com/products/sagittaria-subulata"
+      },
+      {
+        "store": "Modern Aquarium",
+        "price": 6.95,
+        "prevPrice": 6.95,
+        "url": "https://www.modernaquarium.com/"
+      },
+      {
+        "store": "Buce Plant",
+        "price": 9.99,
+        "prevPrice": 9.99,
+        "url": "https://buceplant.com/products/sagittaria-subulata-aquatic-farmer-tissue-culture"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 12.99,
+        "prevPrice": 12.99,
+        "url": "https://aquariumplantsfactory.com/products/sagittaria-subulata"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 3.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 7.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Dwarf Baby Tears",
+    "scientific": "Hemianthus callitrichoides",
+    "difficulty": "Hard",
+    "lighting": "High",
+    "minTankGallons": 5,
+    "minTankLitres": 20,
+    "description": "The tiniest aquarium plant on the planet. Creates a stunning bright green carpet \u2014 but it's demanding. Needs CO2 injection and strong light.",
+    "image": "https://shop.glassaqua.com/cdn/shop/products/HC-Cuba.jpg?v=1568971237&width=800",
+    "sellers": [
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 10.99,
+        "prevPrice": 10.99,
+        "url": "https://aquariumplantsfactory.com/"
+      },
+      {
+        "store": "Buce Plant",
+        "price": 9.99,
+        "prevPrice": 11.99,
+        "url": "https://buceplant.com/products/hemianthus-callitrichoides-cuba-tissue-culture-cup"
+      },
+      {
+        "store": "Glass Aqua",
+        "price": 10.99,
+        "prevPrice": 10.99,
+        "url": "https://shop.glassaqua.com/collections/top-sellers"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 5.49,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 8.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Rotala Macrandra Green",
+    "scientific": "Rotala macrandra",
+    "difficulty": "Medium",
+    "lighting": "Medium",
+    "minTankGallons": 10,
+    "minTankLitres": 40,
+    "description": "Delicate, wispy stems with pale green leaves that catch the light beautifully. Grows fast and fills the background of a tank like a watercolor painting.",
+    "image": "https://buceplant.com/cdn/shop/products/rotala-macrandra-green-33772988498120_1050x700.jpg?v=1670533063",
+    "sellers": [
+      {
+        "store": "Buce Plant",
+        "price": 6.99,
+        "prevPrice": 6.99,
+        "url": "https://buceplant.com/products/rotala-macrandra-green"
+      },
+      {
+        "store": "Glass Aqua",
+        "price": 6.99,
+        "prevPrice": 6.99,
+        "url": "https://shop.glassaqua.com/products/rotala-macrandra"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 4.49,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 7.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Vallisneria",
+    "scientific": "Vallisneria spiralis",
+    "difficulty": "Easy",
+    "lighting": "Low",
+    "minTankGallons": 20,
+    "minTankLitres": 75,
+    "description": "Long, ribbon-like grass that sways gracefully in the current. One of the oldest aquarium plants around \u2014 grows like a weed in a good way.",
+    "image": "https://www.aquariumcoop.com/cdn/shop/files/corkscrew-vallisneria-8349292.jpg?v=1766094796&width=800",
+    "sellers": [
+      {
+        "store": "Aquarium Co-Op",
+        "price": 7.99,
+        "prevPrice": 6.99,
+        "url": "https://www.aquariumcoop.com/products/corkscrew-vallisneria"
+      },
+      {
+        "store": "Modern Aquarium",
+        "price": 6.95,
+        "prevPrice": 6.95,
+        "url": "https://www.modernaquarium.com/"
+      },
+      {
+        "store": "Glass Aqua",
+        "price": 9.99,
+        "prevPrice": 9.99,
+        "url": "https://shop.glassaqua.com/products/vallisneria-spiralis"
+      },
+      {
+        "store": "Buce Plant",
+        "price": 9.99,
+        "prevPrice": 9.99,
+        "url": "https://buceplant.com/products/vallisneria-spiralis-aquatic-farmer-tissue-culture"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 8.99,
+        "prevPrice": 8.99,
+        "url": "https://aquariumplantsfactory.com/products/vallisneria-spiralis"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 3.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 7.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Hornwort",
+    "scientific": "Ceratophyllum demersum",
+    "difficulty": "Easy",
+    "lighting": "Low",
+    "minTankGallons": 10,
+    "minTankLitres": 40,
+    "description": "One of the fastest-growing plants you can buy. Great for absorbing excess nutrients, outcompeting algae, and giving fish somewhere to hide.",
+    "image": "https://cdn11.bigcommerce.com/s-zlozzyl4vj/products/3570/images/27388/Hornwort_Live_Aquarium_Plant_21__92943.1781619205.386.513.jpg?c=1",
+    "sellers": [
+      {
+        "store": "Modern Aquarium",
+        "price": 6.95,
+        "prevPrice": 7.95,
+        "url": "https://www.modernaquarium.com/"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 3.49,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 7.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Alternanthera Reineckii Mini",
+    "scientific": "Alternanthera reineckii 'Mini'",
+    "difficulty": "Medium",
+    "lighting": "Medium",
+    "minTankGallons": 10,
+    "minTankLitres": 40,
+    "description": "A vivid red-pink plant that pops against all the green in a tank. Compact and slow-growing \u2014 perfect for the midground.",
+    "image": "https://shop.glassaqua.com/cdn/shop/products/Alternanthera-Reineckii-Mini.jpg?v=1613414530&width=800",
+    "sellers": [
+      {
+        "store": "Glass Aqua",
+        "price": 12.99,
+        "prevPrice": 12.99,
+        "url": "https://shop.glassaqua.com/products/alternanthera-reineckii-mini"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 9.99,
+        "prevPrice": 12.99,
+        "url": "https://aquariumplantsfactory.com/products/alternanthera-reineckii-mini"
+      },
+      {
+        "store": "Buce Plant",
+        "price": 12.99,
+        "prevPrice": 12.99,
+        "url": "https://buceplant.com/products/alternanthera-reineckii-mini-1"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 4.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 8.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Java Fern",
+    "scientific": "Microsorum pteropus",
+    "difficulty": "Easy",
+    "lighting": "Low",
+    "minTankGallons": 5,
+    "minTankLitres": 20,
+    "description": "The classic low-light workhorse. Hardy, slow-growing, and thrives when attached to rocks or driftwood. Works in almost any tank.",
+    "image": "https://www.aquariumcoop.com/cdn/shop/files/java-fern-2575799.jpg?v=1766095159&width=800",
+    "sellers": [
+      {
+        "store": "Aquarium Co-Op",
+        "price": 9.99,
+        "prevPrice": 9.99,
+        "url": "https://www.aquariumcoop.com/products/java-fern"
+      },
+      {
+        "store": "Modern Aquarium",
+        "price": 7.95,
+        "prevPrice": 8.95,
+        "url": "https://www.modernaquarium.com/"
+      },
+      {
+        "store": "Buce Plant",
+        "price": 8.99,
+        "prevPrice": 8.99,
+        "url": "https://buceplant.com/products/microsorum-pteropus-java-fern"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 8.99,
+        "prevPrice": 8.99,
+        "url": "https://aquariumplantsfactory.com/products/java-fern"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 4.75,
+        "url": "https://www.aquariumgardens.co.uk/microsorum-pteropus-java-fern-191-p.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 8.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Cryptocoryne Wendtii",
+    "scientific": "Cryptocoryne wendtii",
+    "difficulty": "Easy",
+    "lighting": "Low",
+    "minTankGallons": 10,
+    "minTankLitres": 40,
+    "description": "Deep green, ruffled leaves that look great as a midground plant. One of the most forgiving crypts \u2014 once established it pretty much takes care of itself.",
+    "image": "https://www.aquariumcoop.com/cdn/shop/files/cryptocoryne-wendtii-green-6588515.jpg?v=1766094968&width=800",
+    "sellers": [
+      {
+        "store": "Aquarium Co-Op",
+        "price": 7.99,
+        "prevPrice": 7.99,
+        "url": "https://www.aquariumcoop.com/products/cryptocoryne-wendtii-green"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 6.99,
+        "prevPrice": 7.99,
+        "url": "https://aquariumplantsfactory.com/"
+      },
+      {
+        "store": "Modern Aquarium",
+        "price": 5.95,
+        "prevPrice": 5.95,
+        "url": "https://www.modernaquarium.com/"
+      },
+      {
+        "store": "Glass Aqua",
+        "price": 9.99,
+        "prevPrice": 9.99,
+        "url": "https://shop.glassaqua.com/products/cryptocoryne-wendtii-green"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 4.49,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 7.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Water Wisteria",
+    "scientific": "Hygrophila difformis",
+    "difficulty": "Easy",
+    "lighting": "Low",
+    "minTankGallons": 10,
+    "minTankLitres": 40,
+    "description": "Fast-growing and forgiving with lacy, fernlike leaves. Can be planted in substrate or left floating. One of the best beginner stem plants.",
+    "image": "https://www.aquariumcoop.com/cdn/shop/files/water-wisteria-3465150.jpg?v=1766094918&width=800",
+    "sellers": [
+      {
+        "store": "Aquarium Co-Op",
+        "price": 7.99,
+        "prevPrice": 8.99,
+        "url": "https://www.aquariumcoop.com/products/water-wisteria"
+      },
+      {
+        "store": "Modern Aquarium",
+        "price": 5.95,
+        "prevPrice": 5.95,
+        "url": "https://www.modernaquarium.com/"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 3.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 7.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Ludwigia Repens",
+    "scientific": "Ludwigia repens",
+    "difficulty": "Easy",
+    "lighting": "Medium",
+    "minTankGallons": 10,
+    "minTankLitres": 40,
+    "description": "Green and red leaves on a fast-growing stem plant. One of the easiest red plants to keep \u2014 great for adding color without the difficulty.",
+    "image": "https://www.aquariumcoop.com/cdn/shop/files/ludwigia-repens-red-8990198.jpg?v=1766094909&width=800",
+    "sellers": [
+      {
+        "store": "Aquarium Co-Op",
+        "price": 8.99,
+        "prevPrice": 8.99,
+        "url": "https://www.aquariumcoop.com/products/ludwigia-repens"
+      },
+      {
+        "store": "Modern Aquarium",
+        "price": 7.95,
+        "prevPrice": 8.95,
+        "url": "https://www.modernaquarium.com/"
+      },
+      {
+        "store": "Buce Plant",
+        "price": 6.99,
+        "prevPrice": 6.99,
+        "url": "https://buceplant.com/products/ludwigia-repens"
+      },
+      {
+        "store": "Glass Aqua",
+        "price": 6.99,
+        "prevPrice": 6.99,
+        "url": "https://shop.glassaqua.com/products/ludwigia-repens"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 7.99,
+        "prevPrice": 7.99,
+        "url": "https://aquariumplantsfactory.com/products/ludwigia-repens"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 4.49,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 7.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Red Tiger Lotus",
+    "scientific": "Nymphaea zenkeri",
+    "difficulty": "Easy",
+    "lighting": "Medium",
+    "minTankGallons": 20,
+    "minTankLitres": 75,
+    "description": "A bulb plant that unfurls into dramatic red lily pads. Grows fast and big \u2014 trim the surface leaves to keep it bushy and low.",
+    "image": "https://www.aquariumcoop.com/cdn/shop/files/tiger-lotus-bulb-3957189.jpg?v=1766094975&width=800",
+    "sellers": [
+      {
+        "store": "Aquarium Co-Op",
+        "price": 9.99,
+        "prevPrice": 11.99,
+        "url": "https://www.aquariumcoop.com/products/red-tiger-lotus"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 8.99,
+        "prevPrice": 8.99,
+        "url": "https://aquariumplantsfactory.com/"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 5.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 9.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Staurogyne Repens",
+    "scientific": "Staurogyne repens",
+    "difficulty": "Medium",
+    "lighting": "Medium",
+    "minTankGallons": 10,
+    "minTankLitres": 40,
+    "description": "A compact, bushy foreground plant with bright green leaves. Stays low and dense without CO2 \u2014 though it grows faster with it.",
+    "image": "https://shop.glassaqua.com/cdn/shop/products/Staurogyne-repens.jpg?v=1617985816&width=800",
+    "sellers": [
+      {
+        "store": "Glass Aqua",
+        "price": 12.99,
+        "prevPrice": 9.99,
+        "url": "https://shop.glassaqua.com/products/staurogyne-repens"
+      },
+      {
+        "store": "Buce Plant",
+        "price": 9.99,
+        "prevPrice": 9.99,
+        "url": "https://buceplant.com/products/staurogyne-repens-aquatic-farmer-tissue-culture"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 6.99,
+        "prevPrice": 7.99,
+        "url": "https://aquariumplantsfactory.com/products/staurogyne-repens"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 4.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 7.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Dwarf Hairgrass",
+    "scientific": "Eleocharis parvula",
+    "difficulty": "Medium",
+    "lighting": "Medium",
+    "minTankGallons": 5,
+    "minTankLitres": 20,
+    "description": "Creates a beautiful lawn-like carpet of thin bright green blades. Spreads through runners. Looks incredible \u2014 especially in a nano tank.",
+    "image": "https://shop.glassaqua.com/cdn/shop/products/Hairgrass-Mini-Belem.jpg?v=1613414534&width=800",
+    "sellers": [
+      {
+        "store": "Glass Aqua",
+        "price": 9.99,
+        "prevPrice": 12.99,
+        "url": "https://shop.glassaqua.com/products/eleocharis-parvula"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 6.99,
+        "prevPrice": 9.99,
+        "url": "https://aquariumplantsfactory.com/products/eleocharis-parvula"
+      },
+      {
+        "store": "Buce Plant",
+        "price": 12.99,
+        "prevPrice": 12.99,
+        "url": "https://buceplant.com/products/dwarf-hair-grass-tissue-culture"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 4.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 7.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Bucephalandra",
+    "scientific": "Bucephalandra brownie jade",
+    "difficulty": "Easy",
+    "lighting": "Low",
+    "minTankGallons": 5,
+    "minTankLitres": 20,
+    "description": "A rare-looking plant with iridescent shimmer on its leaves. Tie it to driftwood or rock \u2014 it'll slowly creep and look stunning.",
+    "image": "https://shop.glassaqua.com/cdn/shop/files/Bucephalandra-Brownie-Jade-Pot-Aquatic-Plant-1.jpg?v=1766163485&width=800",
+    "sellers": [
+      {
+        "store": "Glass Aqua",
+        "price": 14.99,
+        "prevPrice": 14.99,
+        "url": "https://shop.glassaqua.com/collections/top-sellers"
+      },
+      {
+        "store": "Buce Plant",
+        "price": 7.99,
+        "prevPrice": 15.99,
+        "url": "https://buceplant.com/products/bucephalandra-brownie-jade"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 8.99,
+        "prevPrice": 8.99,
+        "url": "https://aquariumplantsfactory.com/products/bucephalandra-brownie-jade"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 8.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 12.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Lobelia Cardinalis",
+    "scientific": "Lobelia cardinalis",
+    "difficulty": "Medium",
+    "lighting": "Medium",
+    "minTankGallons": 10,
+    "minTankLitres": 40,
+    "description": "Bright lime-green leaves with a reddish underside. A versatile midground plant that grows taller in lower light and stays compact in brighter tanks.",
+    "image": "https://buceplant.com/cdn/shop/products/lobelia-cardinalis-wavy-32220238282952_1050x700.jpg?v=1645735557",
+    "sellers": [
+      {
+        "store": "Buce Plant",
+        "price": 6.99,
+        "prevPrice": 6.99,
+        "url": "https://buceplant.com/products/lobelia-cardinalis"
+      },
+      {
+        "store": "Modern Aquarium",
+        "price": 5.95,
+        "prevPrice": 6.95,
+        "url": "https://www.modernaquarium.com/"
+      },
+      {
+        "store": "Glass Aqua",
+        "price": 6.99,
+        "prevPrice": 6.99,
+        "url": "https://shop.glassaqua.com/products/lobelia-cardinalis"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 7.99,
+        "prevPrice": 7.99,
+        "url": "https://aquariumplantsfactory.com/products/lobelia-cardinalis"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 3.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 7.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Rotala Rotundifolia",
+    "scientific": "Rotala rotundifolia",
+    "difficulty": "Medium",
+    "lighting": "Medium",
+    "minTankGallons": 10,
+    "minTankLitres": 40,
+    "description": "Slender pink-red stems that look like a coral reef when fully grown in. One of the most popular background stem plants in the hobby.",
+    "image": "https://shop.glassaqua.com/cdn/shop/files/Rotala-Rotundifolia-Red-Aquatic-Stem-Plant-1.jpg?v=1736968963&width=800",
+    "sellers": [
+      {
+        "store": "Glass Aqua",
+        "price": 7.99,
+        "prevPrice": 8.99,
+        "url": "https://shop.glassaqua.com/products/rotala-rotundifolia"
+      },
+      {
+        "store": "Modern Aquarium",
+        "price": 6.95,
+        "prevPrice": 6.95,
+        "url": "https://www.modernaquarium.com/"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 6.99,
+        "prevPrice": 7.99,
+        "url": "https://aquariumplantsfactory.com/"
+      },
+      {
+        "store": "Buce Plant",
+        "price": 12.99,
+        "prevPrice": 12.99,
+        "url": "https://buceplant.com/products/rotala-rotundifolia-uns-tissue-culture"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 4.49,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 7.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Cryptocoryne Parva",
+    "scientific": "Cryptocoryne parva",
+    "difficulty": "Easy",
+    "lighting": "Low",
+    "minTankGallons": 5,
+    "minTankLitres": 20,
+    "description": "The smallest Cryptocoryne in the world. Grows incredibly slowly but creates a dense, natural-looking foreground carpet without needing CO2.",
+    "image": "https://shop.glassaqua.com/cdn/shop/files/Cryptocoryne-Parva-Pot-Aquatic-Plant-1.jpg?v=1755898005&width=800",
+    "sellers": [
+      {
+        "store": "Glass Aqua",
+        "price": 6.99,
+        "prevPrice": 6.99,
+        "url": "https://shop.glassaqua.com/products/cryptocoryne-parva"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 7.99,
+        "prevPrice": 8.99,
+        "url": "https://aquariumplantsfactory.com/"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 4.49,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 7.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Rotala Rotundifolia 'Sunset'",
+    "scientific": "Rotala rotundifolia 'Sunset'",
+    "difficulty": "Medium",
+    "lighting": "Medium",
+    "minTankGallons": 10,
+    "minTankLitres": 40,
+    "description": "A color-changing stem plant that shifts from orange to pink to red depending on how much light it gets. Beautiful in groups at the back of the tank.",
+    "image": "https://buceplant.com/cdn/shop/products/rotala-sunset-tissue-culture-34062607810760_1050x700.jpg?v=1753294837",
+    "sellers": [
+      {
+        "store": "Buce Plant",
+        "price": 11.99,
+        "prevPrice": 11.99,
+        "url": "https://buceplant.com/collections/aquarium-plants"
+      },
+      {
+        "store": "Modern Aquarium",
+        "price": 9.95,
+        "prevPrice": 10.95,
+        "url": "https://www.modernaquarium.com/"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 4.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 8.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Anubias Stardust Mini",
+    "scientific": "Anubias barteri 'Stardust'",
+    "difficulty": "Easy",
+    "lighting": "Low",
+    "minTankGallons": 5,
+    "minTankLitres": 20,
+    "description": "A rare variety of Anubias with striking white speckles on its leaves. Incredibly slow-growing and nearly indestructible \u2014 a showpiece plant.",
+    "image": "https://buceplant.com/cdn/shop/products/anubias-stardust-mini-33772985614536_512x342.jpg?v=1670533079",
+    "sellers": [
+      {
+        "store": "Buce Plant",
+        "price": 39.99,
+        "prevPrice": 16.99,
+        "url": "https://buceplant.com/products/anubias-stardust"
+      },
+      {
+        "store": "Glass Aqua",
+        "price": 17.99,
+        "prevPrice": 17.99,
+        "url": "https://shop.glassaqua.com/products/anubias-stardust"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 9.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 14.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Bolbitis Difformis Mini",
+    "scientific": "Bolbitis difformis 'Mini'",
+    "difficulty": "Medium",
+    "lighting": "Low",
+    "minTankGallons": 10,
+    "minTankLitres": 40,
+    "description": "Delicate, feathery fronds that look otherworldly underwater. Attach to rocks or driftwood \u2014 it'll slowly creep and fill in beautifully.",
+    "image": "https://shop.glassaqua.com/cdn/shop/files/Bolbitis-Difformis-Aquatic-Plant-1.jpg?v=1763682186&width=800",
+    "sellers": [
+      {
+        "store": "Glass Aqua",
+        "price": 14.99,
+        "prevPrice": 14.99,
+        "url": "https://shop.glassaqua.com/collections/top-sellers"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 12.99,
+        "prevPrice": 14.99,
+        "url": "https://aquariumplantsfactory.com/"
+      },
+      {
+        "store": "Buce Plant",
+        "price": 7.64,
+        "prevPrice": 7.64,
+        "url": "https://buceplant.com/products/mini-bolbitis-baby-leaf"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 7.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 12.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Azolla (Mosquito Fern)",
+    "scientific": "Azolla filiculoides",
+    "difficulty": "Easy",
+    "lighting": "Low",
+    "minTankGallons": 5,
+    "minTankLitres": 20,
+    "description": "A tiny floating plant that covers the surface with a carpet of soft green rosettes. Shades the tank, reduces algae, and fish love to nibble on it.",
+    "image": "https://shop.glassaqua.com/cdn/shop/files/Azolla-Mosquito-Fern-Floater-Floating-Plant-1.jpg?v=1749064832&width=800",
+    "sellers": [
+      {
+        "store": "Glass Aqua",
+        "price": 9.99,
+        "prevPrice": 9.99,
+        "url": "https://shop.glassaqua.com/collections/top-sellers"
+      },
+      {
+        "store": "Buce Plant",
+        "price": 8.99,
+        "prevPrice": 8.99,
+        "url": "https://buceplant.com/products/azolla-caroliniana"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 8.99,
+        "prevPrice": 8.99,
+        "url": "https://aquariumplantsfactory.com/products/azolla"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 3.49,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 6.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Eleocharis Belem",
+    "scientific": "Eleocharis sp. 'Belem'",
+    "difficulty": "Hard",
+    "lighting": "High",
+    "minTankGallons": 5,
+    "minTankLitres": 20,
+    "description": "The finest, most hair-like grass in the hobby. Creates an impossibly delicate carpet that looks like silk underwater \u2014 but demands CO2 and high light.",
+    "image": "https://shop.glassaqua.com/cdn/shop/files/Eleocharis-Belem-AF-Tissue-Culture-Aquatic-Plant-1.jpg?v=1682448042&width=800",
+    "sellers": [
+      {
+        "store": "Glass Aqua",
+        "price": 9.99,
+        "prevPrice": 12.99,
+        "url": "https://shop.glassaqua.com/products/eleocharis-belem"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 10.99,
+        "prevPrice": 12.99,
+        "url": "https://aquariumplantsfactory.com/"
+      },
+      {
+        "store": "Buce Plant",
+        "price": 9.99,
+        "prevPrice": 9.99,
+        "url": "https://buceplant.com/products/eleocharis-belem-aquatic-farmer-tissue-culture"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 4.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 8.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Bacopa Monnieri",
+    "scientific": "Bacopa monnieri",
+    "difficulty": "Easy",
+    "lighting": "Medium",
+    "minTankGallons": 10,
+    "minTankLitres": 40,
+    "description": "One of the most beginner-friendly stem plants in the hobby. Pairs of bright green, rounded leaves grow up a straight stalk. Hardy and forgiving \u2014 just give it decent light and it'll fill in the mid or background beautifully.",
+    "image": "https://buceplant.com/cdn/shop/files/bacopa-monnieri-1173637874_1024x.jpg?v=1750111715",
+    "sellers": [
+      {
+        "store": "Buce Plant",
+        "price": 6.99,
+        "prevPrice": 6.99,
+        "url": "https://buceplant.com/collections/stem-plants/products/bacopa-monnieri"
+      },
+      {
+        "store": "Aquarium Co-Op",
+        "price": 5.99,
+        "prevPrice": 5.99,
+        "url": "https://www.aquariumcoop.com/products/bacopa-monnieri"
+      },
+      {
+        "store": "Modern Aquarium",
+        "price": 5.95,
+        "prevPrice": 5.95,
+        "url": "https://www.modernaquarium.com/"
+      },
+      {
+        "store": "Glass Aqua",
+        "price": 6.99,
+        "prevPrice": 6.99,
+        "url": "https://shop.glassaqua.com/products/bacopa-monnieri"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 9.99,
+        "prevPrice": 9.99,
+        "url": "https://aquariumplantsfactory.com/products/bacopa-monnieri"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 4.49,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 5.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Anacharis",
+    "scientific": "Egeria densa",
+    "difficulty": "Easy",
+    "lighting": "Low",
+    "minTankGallons": 10,
+    "minTankLitres": 40,
+    "description": "A classic bunch plant that's been in fish tanks forever. Feathery bright green stems grow fast, soak up nitrates, and make a great background filler. Super cheap and nearly impossible to kill.",
+    "image": "https://shop.glassaqua.com/cdn/shop/products/Egeria-densa-easy-aquarium-aquatic-plant.jpg?v=1584383018&width=1946",
+    "sellers": [
+      {
+        "store": "Glass Aqua",
+        "price": 6.99,
+        "prevPrice": 6.99,
+        "url": "https://shop.glassaqua.com/products/egeria-densa"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 5.99,
+        "prevPrice": 5.99,
+        "url": "https://aquariumplantsfactory.com/products/anacharis"
+      },
+      {
+        "store": "Modern Aquarium",
+        "price": 4.95,
+        "prevPrice": 4.95,
+        "url": "https://www.modernaquarium.com/"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 2.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 4.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Amazon Frogbit",
+    "scientific": "Limnobium laevigatum",
+    "difficulty": "Easy",
+    "lighting": "Low",
+    "minTankGallons": 5,
+    "minTankLitres": 20,
+    "description": "A floating plant with round, lily pad-style leaves and dangling white roots. No planting needed \u2014 just drop it in. Fish and shrimp love sheltering under it, and it helps block excess light to keep algae down.",
+    "image": "https://shop.glassaqua.com/cdn/shop/files/Limnobium-Laevigatum-Aquatic-Plant-Floating-Lily-1.jpg?v=1692657419&width=1946",
+    "sellers": [
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 7.99,
+        "prevPrice": 7.99,
+        "url": "https://aquariumplantsfactory.com/products/amazon-frogbit"
+      },
+      {
+        "store": "Aquarium Co-Op",
+        "price": 7.99,
+        "prevPrice": 7.99,
+        "url": "https://www.aquariumcoop.com/products/amazon-frogbit"
+      },
+      {
+        "store": "Modern Aquarium",
+        "price": 6.95,
+        "prevPrice": 6.95,
+        "url": "https://www.modernaquarium.com/"
+      },
+      {
+        "store": "Glass Aqua",
+        "price": 21.99,
+        "prevPrice": 21.99,
+        "url": "https://shop.glassaqua.com/products/limnobium-laevigatum-amazon-frogbit"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 3.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 5.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Cryptocoryne Beckettii",
+    "scientific": "Cryptocoryne beckettii",
+    "difficulty": "Easy",
+    "lighting": "Low",
+    "minTankGallons": 10,
+    "minTankLitres": 40,
+    "description": "One of the most popular crypts in the hobby. Olive-green leaves with a pink-red tint underneath. Hardy, slow-growing, and thrives in low light \u2014 a classic choice for low-tech tanks.",
+    "image": "https://buceplant.com/cdn/shop/files/cryptocoryne-beckettii-uns-tissue-culture-1180917854_512x342.jpg?v=1753301325",
+    "sellers": [
+      {
+        "store": "Buce Plant",
+        "price": 9.99,
+        "prevPrice": 9.99,
+        "url": "https://buceplant.com/collections/cryptocoryne/products/cryptocoryne-beckettii-tissue-culture"
+      },
+      {
+        "store": "Aquarium Co-Op",
+        "price": 7.99,
+        "prevPrice": 7.99,
+        "url": "https://www.aquariumcoop.com/products/cryptocoryne-beckettii"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 8.99,
+        "prevPrice": 8.99,
+        "url": "https://aquariumplantsfactory.com/collections/aquarium-plants"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 4.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 6.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Cryptocoryne Lutea",
+    "scientific": "Cryptocoryne lutea",
+    "difficulty": "Easy",
+    "lighting": "Low",
+    "minTankGallons": 10,
+    "minTankLitres": 40,
+    "description": "A bright yellow-green crypt with gently wavy, oblong leaves. Stays a manageable mid-height \u2014 not too small, not too tall. Handles most water conditions without complaining.",
+    "image": "https://buceplant.com/cdn/shop/files/cryptocoryne-lutea-1168007582_512x342.jpg?v=1747700549",
+    "sellers": [
+      {
+        "store": "Buce Plant",
+        "price": 6.99,
+        "prevPrice": 6.99,
+        "url": "https://buceplant.com/collections/cryptocoryne/products/cryptocoryne-lutea"
+      },
+      {
+        "store": "Aquarium Co-Op",
+        "price": 6.99,
+        "prevPrice": 6.99,
+        "url": "https://www.aquariumcoop.com/products/cryptocoryne-lutea"
+      },
+      {
+        "store": "Modern Aquarium",
+        "price": 6.95,
+        "prevPrice": 6.95,
+        "url": "https://www.modernaquarium.com/"
+      },
+      {
+        "store": "Glass Aqua",
+        "price": 9.99,
+        "prevPrice": 9.99,
+        "url": "https://shop.glassaqua.com/products/cryptocoryne-lutea"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 4.49,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 6.49,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Hydrocotyle Tripartita",
+    "scientific": "Hydrocotyle tripartita",
+    "difficulty": "Medium",
+    "lighting": "Medium",
+    "minTankGallons": 10,
+    "minTankLitres": 40,
+    "description": "One of the trendiest plants in the hobby right now. Tiny clover-shaped leaves carpet the foreground or climb up rocks and wood in a lush, coin-shaped wave. Looks incredible in aquascapes \u2014 adds real character.",
+    "image": "https://shop.glassaqua.com/cdn/shop/products/Hydrocotyle-Tripartita-1.jpg?v=1741977777",
+    "sellers": [
+      {
+        "store": "Glass Aqua",
+        "price": 9.99,
+        "prevPrice": 9.99,
+        "url": "https://shop.glassaqua.com/products/hydrocotyle-tripartita"
+      },
+      {
+        "store": "Buce Plant",
+        "price": 9.99,
+        "prevPrice": 9.99,
+        "url": "https://buceplant.com/products/hydrocotyle-tripartita-tissue-culture"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 8.99,
+        "prevPrice": 8.99,
+        "url": "https://aquariumplantsfactory.com/collections/aquarium-plants"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 5.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 7.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Pogostemon Helferi",
+    "scientific": "Pogostemon helferi",
+    "difficulty": "Medium",
+    "lighting": "Medium",
+    "minTankGallons": 10,
+    "minTankLitres": 40,
+    "description": "Also called 'Downoi' (Thai for little star). Short, crinkly leaves fan out in a star-like pattern and form a dense foreground clump. One of the most distinctive-looking plants you can put in a tank.",
+    "image": "https://buceplant.com/cdn/shop/products/pogostemon-helferi-downoi-aquatic-farmer-tissue-culture-32410844299464_1050x700.jpg?v=1775663577",
+    "sellers": [
+      {
+        "store": "Buce Plant",
+        "price": 14.99,
+        "prevPrice": 14.99,
+        "url": "https://buceplant.com/collections/stem-plants/products/pogostemon-helferi-downoi"
+      },
+      {
+        "store": "Glass Aqua",
+        "price": 12.99,
+        "prevPrice": 12.99,
+        "url": "https://shop.glassaqua.com/collections/top-sellers"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 11.99,
+        "prevPrice": 11.99,
+        "url": "https://aquariumplantsfactory.com/collections/aquarium-plants"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 7.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 9.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Aponogeton Crispus",
+    "scientific": "Aponogeton crispus",
+    "difficulty": "Medium",
+    "lighting": "Medium",
+    "minTankGallons": 20,
+    "minTankLitres": 75,
+    "description": "Grows from a bulb so it's easy to plant \u2014 just press it into the substrate. Long, ruffled leaves fan out elegantly and fill background space. Goes dormant occasionally, which is normal, and comes back stronger.",
+    "image": "https://buceplant.com/cdn/shop/products/aponogeton-crispus-32673446330568_1050x700.jpg?v=1652119064",
+    "sellers": [
+      {
+        "store": "Buce Plant",
+        "price": 8.99,
+        "prevPrice": 8.99,
+        "url": "https://buceplant.com/collections/aquarium-plants/products/aponogeton-crispus"
+      },
+      {
+        "store": "Aquarium Co-Op",
+        "price": 7.99,
+        "prevPrice": 7.99,
+        "url": "https://www.aquariumcoop.com/products/aponogeton-crispus"
+      },
+      {
+        "store": "Modern Aquarium",
+        "price": 7.95,
+        "prevPrice": 7.95,
+        "url": "https://www.modernaquarium.com/"
+      },
+      {
+        "store": "Glass Aqua",
+        "price": 12.99,
+        "prevPrice": 12.99,
+        "url": "https://shop.glassaqua.com/products/aponogeton-crispus"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 4.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 6.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Blyxa Japonica",
+    "scientific": "Blyxa japonica",
+    "difficulty": "Medium",
+    "lighting": "Medium",
+    "minTankGallons": 10,
+    "minTankLitres": 40,
+    "description": "A grass-like midground plant with a softer, more natural look than typical stem plants. Popular in nature-style aquascapes for the way its fine leaves sway in the current. Pairs beautifully with stones and driftwood.",
+    "image": "https://shop.glassaqua.com/cdn/shop/files/Blyxa-Japonica-Aquatic-Stem-Plant-1.jpg?v=1748054671&width=1946",
+    "sellers": [
+      {
+        "store": "Glass Aqua",
+        "price": 14.99,
+        "prevPrice": 14.99,
+        "url": "https://shop.glassaqua.com/products/blyxa-japonica"
+      },
+      {
+        "store": "Buce Plant",
+        "price": 14.99,
+        "prevPrice": 14.99,
+        "url": "https://buceplant.com/collections/stem-plants/products/blyxa-japonica"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 12.99,
+        "prevPrice": 12.99,
+        "url": "https://aquariumplantsfactory.com/collections/aquarium-plants"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 6.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 9.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Rotala Indica",
+    "scientific": "Rotala indica",
+    "difficulty": "Medium",
+    "lighting": "Medium",
+    "minTankGallons": 10,
+    "minTankLitres": 40,
+    "description": "A pink-tinged stem plant that's a step up from the basics. Adapts to most conditions and rewards better light and CO2 with deeper, warmer color. Often confused with Rotala Rotundifolia but grows slightly differently.",
+    "image": "https://buceplant.com/cdn/shop/products/rotala-indica-green-33638392168648_512x342.jpg?v=1667320781",
+    "sellers": [
+      {
+        "store": "Buce Plant",
+        "price": 6.99,
+        "prevPrice": 6.99,
+        "url": "https://buceplant.com/collections/stem-plants/products/rotala-indica-green"
+      },
+      {
+        "store": "Glass Aqua",
+        "price": 7.99,
+        "prevPrice": 7.99,
+        "url": "https://shop.glassaqua.com/collections/top-sellers"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 6.99,
+        "prevPrice": 6.99,
+        "url": "https://aquariumplantsfactory.com/collections/aquarium-plants"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 4.49,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 5.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Proserpinaca Palustris",
+    "scientific": "Proserpinaca palustris",
+    "difficulty": "Medium",
+    "lighting": "High",
+    "minTankGallons": 10,
+    "minTankLitres": 40,
+    "description": "Called Mermaid Weed for its fine, saw-toothed leaves that look almost feathery underwater. Color shifts from green to vivid orange-red depending on light and nutrients. A showstopper in well-lit setups.",
+    "image": "https://buceplant.com/cdn/shop/products/proserpinaca-palustris-uns-tissue-culture-30568462713032_800x533.jpg?v=1628029136",
+    "sellers": [
+      {
+        "store": "Buce Plant",
+        "price": 10.99,
+        "prevPrice": 10.99,
+        "url": "https://buceplant.com/collections/stem-plants/products/proserpinaca-palustris"
+      },
+      {
+        "store": "Glass Aqua",
+        "price": 9.99,
+        "prevPrice": 11.99,
+        "url": "https://shop.glassaqua.com/products/proserpinaca-palustris"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 9.99,
+        "prevPrice": 9.99,
+        "url": "https://aquariumplantsfactory.com/collections/aquarium-plants"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 6.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 8.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Limnophila Aromatica",
+    "scientific": "Limnophila aromatica",
+    "difficulty": "Medium",
+    "lighting": "Medium",
+    "minTankGallons": 10,
+    "minTankLitres": 40,
+    "description": "A compact stem plant with small leaves alternating up the stalk. Develops pink and purple hues under brighter light, adding warm color to the mid or background. Easy to propagate \u2014 snip and replant.",
+    "image": "https://buceplant.com/cdn/shop/files/limnophila-aromatica-mini-35977528869064_512x342.jpg",
+    "sellers": [
+      {
+        "store": "Buce Plant",
+        "price": 6.99,
+        "prevPrice": 6.99,
+        "url": "https://buceplant.com/collections/stem-plants/products/limnophila-aromatica-mini"
+      },
+      {
+        "store": "Glass Aqua",
+        "price": 9.99,
+        "prevPrice": 7.99,
+        "url": "https://shop.glassaqua.com/products/limnophila-aromatica"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 6.99,
+        "prevPrice": 6.99,
+        "url": "https://aquariumplantsfactory.com/collections/aquarium-plants"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 4.49,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 6.49,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Fissidens Fontanus",
+    "scientific": "Fissidens fontanus",
+    "difficulty": "Medium",
+    "lighting": "Low",
+    "minTankGallons": 5,
+    "minTankLitres": 20,
+    "description": "Also called Phoenix Moss. Denser and more textured than Java Moss, with feathery fronds that look stunning when tied to rocks and driftwood. Creates a lush, forest-floor look that aquascapers love.",
+    "image": "https://buceplant.com/cdn/shop/files/fissidens-fontanus-1218159736_512x342.jpg?v=1769450795",
+    "sellers": [
+      {
+        "store": "Buce Plant",
+        "price": 11.99,
+        "prevPrice": 11.99,
+        "url": "https://buceplant.com/collections/moss/products/fissidens-fontanus"
+      },
+      {
+        "store": "Glass Aqua",
+        "price": 11.99,
+        "prevPrice": 12.99,
+        "url": "https://shop.glassaqua.com/products/fissidens-fontanus"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 10.99,
+        "prevPrice": 10.99,
+        "url": "https://aquariumplantsfactory.com/collections/aquarium-plants"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 6.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 8.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Glossostigma Elatinoides",
+    "scientific": "Glossostigma elatinoides",
+    "difficulty": "Hard",
+    "lighting": "High",
+    "minTankGallons": 5,
+    "minTankLitres": 20,
+    "description": "A New Zealand native and one of the classic carpet plants in the hobby. Tiny round leaves hug the substrate and form a vivid green lawn effect. Needs high light and CO2 to really take off \u2014 but the result is stunning.",
+    "image": "https://buceplant.com/cdn/shop/files/glossostigma-elatinoides-1166866823_1050x700.jpg?v=1747246127",
+    "sellers": [
+      {
+        "store": "Buce Plant",
+        "price": 7.99,
+        "prevPrice": 7.99,
+        "url": "https://buceplant.com/collections/stem-plants/products/glossostigma-elatinoides"
+      },
+      {
+        "store": "Glass Aqua",
+        "price": 9.99,
+        "prevPrice": 9.99,
+        "url": "https://shop.glassaqua.com/products/glossostigma-elatinoides"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 8.99,
+        "prevPrice": 8.99,
+        "url": "https://aquariumplantsfactory.com/collections/aquarium-plants"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 5.49,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 7.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Utricularia Graminifolia",
+    "scientific": "Utricularia graminifolia",
+    "difficulty": "Hard",
+    "lighting": "High",
+    "minTankGallons": 10,
+    "minTankLitres": 40,
+    "description": "UG is the carpet plant of choice for serious aquascapers. Fine, grass-like blades create a natural meadow look. Fun fact: it's technically carnivorous \u2014 tiny bladders catch microscopic organisms in the water.",
+    "image": "https://buceplant.com/cdn/shop/files/utricularia-graminifolia-uns-tissue-culture-1219871492_1050x700.jpg?v=1770682267",
+    "sellers": [
+      {
+        "store": "Buce Plant",
+        "price": 13.99,
+        "prevPrice": 13.99,
+        "url": "https://buceplant.com/collections/stem-plants/products/utricularia-graminifolia"
+      },
+      {
+        "store": "Glass Aqua",
+        "price": 10.99,
+        "prevPrice": 14.99,
+        "url": "https://shop.glassaqua.com/products/utricularia-graminifolia"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 12.99,
+        "prevPrice": 12.99,
+        "url": "https://aquariumplantsfactory.com/collections/aquarium-plants"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 7.99,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 10.99,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Ammannia Senegalensis",
+    "scientific": "Ammannia senegalensis",
+    "difficulty": "Hard",
+    "lighting": "High",
+    "minTankGallons": 15,
+    "minTankLitres": 57,
+    "description": "Known as Copper Leaf Ammania for its orange-red foliage that glows under intense light. Adds warmth and drama to the background of high-tech tanks. A bold color statement for experienced planted tank keepers.",
+    "image": "https://buceplant.com/cdn/shop/products/ammania-senegalensis-30548630339784_512x342.jpg?v=1737068166",
+    "sellers": [
+      {
+        "store": "Buce Plant",
+        "price": 7.99,
+        "prevPrice": 7.99,
+        "url": "https://buceplant.com/collections/stem-plants/products/ammania-senegalensis"
+      },
+      {
+        "store": "Glass Aqua",
+        "price": 7.99,
+        "prevPrice": 8.99,
+        "url": "https://shop.glassaqua.com/products/ammania-senegalensis"
+      },
+      {
+        "store": "Aquarium Plants Factory",
+        "price": 7.99,
+        "prevPrice": 7.99,
+        "url": "https://aquariumplantsfactory.com/collections/aquarium-plants"
+      }
+    ],
+    "ukSellers": [
+      {
+        "store": "Aquarium Gardens",
+        "price": 5.49,
+        "url": "https://www.aquariumgardens.co.uk/aquarium-plants-15-c.asp"
+      },
+      {
+        "store": "Aqua Essentials",
+        "price": 7.49,
+        "url": "https://aquaessentials.co.uk/collections/aquarium-plants"
+      }
+    ]
+  }
+]
